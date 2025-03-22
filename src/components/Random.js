@@ -23,7 +23,7 @@ const Random = () => {
       </button>
           <button
         className="w-10/12 mb-[20px] bg-green-200 text-lg py-2 rounded-lg"
-        href="https://mycarwisdom.com/"
+        onClick={https://mycarwisdom.com/}
       >
         Car Blogs
       </button>
